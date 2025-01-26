@@ -41,7 +41,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you.">Email Me
+   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you.">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/shobhit-raj9973"_blank">

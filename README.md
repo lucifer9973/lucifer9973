@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I am Shobhit Raj ,I am a Student in KIIT</h2>
+<h2 align="left">Hi! I am Shobhit Raj ,I am Proably Working on Something awesome , but feel free to contact me</h2>
 
 ###
 
@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/shobhitraj729/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you">
+   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you"tareget="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shobhit-raj9973"tareget="_blank">

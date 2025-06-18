@@ -87,7 +87,7 @@ _“Learning by doing. Building in public. Growing with community.”_ 🌱
 
 <br clear="both">
 
-<img src="assets/code-typing-loop.gif" alt="typing animation" width="100%" />
+<img src="assets/code-typing-loop.gif" alt="typing animation" width="25%" />
 
 ###
 

@@ -6,7 +6,8 @@
 
 <a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/Tested%20with-Keploy-blueviolet?style=for-the-badge&logo=keploy" alt="Tested with Keploy" /></a>
 
-This project uses [Keploy](https://github.com/keploy/keploy) to record and test APIs automatically by capturing real requests and generating test cases from them.
+<!-- Optional: remove the line below if it's not tied to a specific project using Keploy -->
+<!-- This project uses [Keploy](https://github.com/keploy/keploy) to record and test APIs automatically by capturing real requests and generating test cases from them. -->
 
 ---
 
@@ -47,13 +48,13 @@ This project uses [Keploy](https://github.com/keploy/keploy) to record and test 
   <a href="https://www.instagram.com/shobhitraj729/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you"tareget="_blank">
+   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shobhit-raj9973"tareget="_blank">
+  <a href="https://www.linkedin.com/in/shobhit-raj9973" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/bluelucifer61"tareget="_blank">
+  <a href="https://www.hackerrank.com/profile/bluelucifer61" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   </div>
@@ -62,7 +63,7 @@ This project uses [Keploy](https://github.com/keploy/keploy) to record and test 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lucifer9973/Lucifer9973/output/snake.svg" alt="Snake animation" />
+<img src="assets/code-typing-loop.gif" alt="typing animation" width="100%" />
 
 ###
 

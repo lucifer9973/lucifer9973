@@ -6,8 +6,32 @@
 
 <a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/Tested%20with-Keploy-blueviolet?style=for-the-badge&logo=keploy" alt="Tested with Keploy" /></a>
 
-<!-- Optional: remove the line below if it's not tied to a specific project using Keploy -->
-<!-- This project uses [Keploy](https://github.com/keploy/keploy) to record and test APIs automatically by capturing real requests and generating test cases from them. -->
+This project uses [Keploy](https://github.com/keploy/keploy) to record and test APIs automatically by capturing real requests and generating test cases from them.
+
+---
+
+### 🚀 Aspiring Software Engineer | Open Source Enthusiast | API Fellow @Keploy
+
+**🔧 Tech Stack:**  
+`Java` `Python` `JavaScript` `Android (Jetpack Compose)`  
+`Git` `Linux` `Firebase` `Flask` `MySQL`
+
+**📌 Projects:**  
+- 🔗 [Water Potability Prediction App](https://github.com/your-link) – Flask + Android + ML  
+- 🔗 [Tic-Tac-Toe Multiplayer Game](https://github.com/your-link) – Jetpack Compose + Firebase  
+- 🔗 [Budget Tracker Web App](https://github.com/your-link)
+
+**🏆 Achievements:**  
+- API Fellow @Keploy  
+- Android Developer Intern @AICite  
+- 7.52 CGPA | B.Tech @ KIIT
+
+**🎯 Interests:**  
+Open-source | Backend Systems | APIs | Mobile Dev | AI  
+
+📫 Reach me at: `rajshobhit48@gmail.com`
+
+_“Learning by doing. Building in public. Growing with community.”_ 🌱
 
 ---
 

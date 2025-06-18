@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/lucifer9973/lucifer9973/blob/main/assets/matrixrain.gif?raw=true" width="100%" alt="Matrix rain animation"/>
-</p>
-
 <h1 align="center">Hi, I'm <span style="color:#00FF41">Shobhit Raj</span> 💻</h1>
 
 <p align="center">

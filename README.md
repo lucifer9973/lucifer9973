@@ -1,15 +1,5 @@
 <h2 align="left">Hi, I'm Shobhit Raj — a passionate software developer who loves to build creative, impactful, and performance-optimized applications. Always open to exciting collaborations and ideas!</h2>
 
----
-
-### 🧪 Keploy Integration
-
-<a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/Tested%20with-Keploy-blueviolet?style=for-the-badge&logo=keploy" alt="Tested with Keploy" /></a>
-
-This project uses [Keploy](https://github.com/keploy/keploy) to record and test APIs automatically by capturing real requests and generating test cases from them.
-
----
-
 ### 🚀 Aspiring Software Engineer | Open Source Enthusiast | API Fellow @Keploy
 
 **🔧 Tech Stack:**  

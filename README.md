@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Shobhit Raj — a passionate software developer who loves to build creative, impactful, and performance-optimized applications. Always open to exciting collaborations and ideas!</h2>
 
-### 🚀 Aspiring Software Engineer | Open Source Enthusiast | API Fellow @Keploy
+### 🚀 Aspiring Software Engineer | Open Source Enthusiast 
 
 **🔧 Tech Stack:**  
 `Java` `Python` `JavaScript` `Android (Jetpack Compose)`  

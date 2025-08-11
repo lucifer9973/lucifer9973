@@ -11,7 +11,6 @@
 - 🔗 [Tic-Tac-Toe Multiplayer Game] – Jetpack Compose + Firebase  
 
 **🏆 Achievements:**  
-- API Fellow @Keploy  
 - Android Developer Intern @AICite  
 - B.Tech @ KIIT
 

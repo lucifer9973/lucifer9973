@@ -7,14 +7,13 @@
 `Git` `Linux` `Firebase` `Flask` `MySQL`
 
 **📌 Projects:**  
-- 🔗 [Water Potability Prediction App](https://github.com/your-link) – Flask + Android + ML  
-- 🔗 [Tic-Tac-Toe Multiplayer Game](https://github.com/your-link) – Jetpack Compose + Firebase  
-- 🔗 [Budget Tracker Web App](https://github.com/your-link)
+- 🔗 [Water Potability Prediction App] – Flask + Android + ML  
+- 🔗 [Tic-Tac-Toe Multiplayer Game] – Jetpack Compose + Firebase  
 
 **🏆 Achievements:**  
 - API Fellow @Keploy  
 - Android Developer Intern @AICite  
-- 7.52 CGPA | B.Tech @ KIIT
+- B.Tech @ KIIT
 
 **🎯 Interests:**  
 Open-source | Backend Systems | APIs | Mobile Dev | AI  

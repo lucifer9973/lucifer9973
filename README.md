@@ -10,8 +10,7 @@
 - 🔗 [Water Potability Prediction App] – Flask + Android + ML  
 - 🔗 [Tic-Tac-Toe Multiplayer Game] – Jetpack Compose + Firebase  
 
-**🏆 Achievements:**  
-- Android Developer Intern @AICite  
+**🏆 Achievements:**    
 - B.Tech @ KIIT
 
 **🎯 Interests:**  

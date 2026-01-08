@@ -1,23 +1,41 @@
-<h2 align="left">Hi, I'm Shobhit Raj — a passionate software developer who loves to build creative, impactful, and performance-optimized applications. Always open to exciting collaborations and ideas!</h2>
+## Hi, I'm Shobhit Raj
 
-### 🚀 Aspiring Software Engineer | Open Source Enthusiast 
+Computer Science undergraduate (2026) with hands-on experience in backend systems, machine learning models, and open-source contributions.  
+Interested in ML engineering, backend development, and API systems.
 
-**🔧 Tech Stack:**  
-`Java` `Python` `JavaScript` `Android (Jetpack Compose)`  
-`Git` `Linux` `Firebase` `Flask` `MySQL`
+---
 
-**📌 Projects:**  
-- 🔗 [Water Potability Prediction App] – Flask + Android + ML  
-- 🔗 [Tic-Tac-Toe Multiplayer Game] – Jetpack Compose + Firebase  
+### 🔧 Technical Skills
+- **Languages:** Python, C++, JavaScript, SQL
+- **ML:** Scikit-learn, TensorFlow, PyTorch
+- **Backend:** Flask, Node.js, REST APIs, MongoDB
+- **Cloud & Tools:** AWS (EC2, S3), Docker, Git, Linux
 
-**🏆 Achievements:**    
-- B.Tech @ KIIT
+---
 
-**🎯 Interests:**  
-Open-source | Backend Systems | APIs | Mobile Dev | AI  
+### 📌 Selected Projects
+- **Water Quality Prediction System**  
+  Built a multi-class ML model achieving 92% accuracy on 3,000+ samples; deployed as a Flask REST API.
 
-📫 Reach me at: `rajshobhit48@gmail.com`
+- **Tic-Tac-Toe AI (Android)**  
+  Implemented Minimax-based AI with Jetpack Compose UI and Firebase integration.
 
+- **Task Manager API**  
+  Designed RESTful APIs with authentication, CRUD operations, and automated testing using Keploy.
+
+---
+
+### 🌍 Open Source Contributions
+- **Keploy (API Testing Framework)**  
+  - Contributed to `public-apis-collection`
+  - Added The Dog API to Animals category  
+  - PR merged after review  
+  - Link: https://github.com/keploy/public-apis-collection/pull/53
+
+---
+
+📫 Contact: rajshobhit48@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shobhit-raj9973
 _“Learning by doing. Building in public. Growing with community.”_ 🌱
 
 ---

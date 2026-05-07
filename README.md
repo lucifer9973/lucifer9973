@@ -1,129 +1,151 @@
-## Hi, I'm Shobhit Raj
+<h1 align="center">Hi 👋, I'm Shobhit Raj</h1>
 
-Computer Science undergraduate (2026) with hands-on experience in backend systems, machine learning models, and open-source contributions.  
-Interested in ML engineering, backend development, and API systems.
+<h3 align="center">
+AI/ML Enthusiast • Backend Developer • Problem Solver
+</h3>
 
----
-
-### 🔧 Technical Skills
-- **Languages:** Python, C++, JavaScript, SQL
-- **ML:** Scikit-learn, TensorFlow, PyTorch
-- **Backend:** Flask, Node.js, REST APIs, MongoDB
-- **Cloud & Tools:** AWS (EC2, S3), Docker, Git, Linux
+<p align="center">
+Computer Science undergraduate (2026) passionate about Machine Learning, Backend Systems, APIs, and scalable software engineering.
+</p>
 
 ---
 
-### 📌 Selected Projects
-- **Water Quality Prediction System**  
-  Built a multi-class ML model achieving 92% accuracy on 3,000+ samples; deployed as a Flask REST API.
+## 🚀 About Me
 
-- **Tic-Tac-Toe AI (Android)**  
-  Implemented Minimax-based AI with Jetpack Compose UI and Firebase integration.
-
-- **Task Manager API**  
-  Designed RESTful APIs with authentication, CRUD operations, and automated testing using Keploy.
-
----
-
-### 🌍 Open Source Contributions
-- **Keploy (API Testing Framework)**  
-  - Contributed to `public-apis-collection`
-  - Added The Dog API to Animals category  
-  - PR merged after review  
-  - Link: https://github.com/keploy/public-apis-collection/pull/53
+- 🎓 B.Tech CSE Student at KIIT University
+- 🤖 Working on AI/ML, LLM workflows, and backend systems
+- 🔍 Interested in Machine Learning, System Design, APIs, and Cloud
+- 🧠 Solved 100+ coding problems across LeetCode, GFG, and HackerRank
+- 🌱 Currently improving skills in AI Engineering and scalable backend development
+- ⚡ Love building real-world projects and learning by shipping
 
 ---
 
-📫 Contact: rajshobhit48@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/shobhit-raj9973
-_“Learning by doing. Building in public. Growing with community.”_ 🌱
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+# 📌 Featured Projects
+
+## 🤖 Predictive Modeling
+Machine learning project focused on predictive analytics using real-world datasets, preprocessing, feature engineering, and model optimization.
+
+🔗 Repository:
+https://github.com/lucifer9973/Predictive-Modeling
+
+---
+
+## 🧠 Customer Segmentation
+Built clustering-based ML models to analyze customer behavior and identify meaningful user groups for business insights.
+
+🔗 Repository:
+https://github.com/lucifer9973/Customer-Segmentation
+
+---
+
+## 👁️ Real-Time Face Detection
+Computer vision project using Python and OpenCV for live face detection and real-time video processing.
+
+🔗 Repository:
+https://github.com/lucifer9973/Real-Time-Face-Detection
+
+---
+
+## ❤️ Heart Disease Prediction System
+Developed a machine learning model for predicting heart disease risk using healthcare datasets and classification algorithms.
+
+---
+
+## 💧 Water Potability Prediction System
+Built a predictive ML system to analyze water quality and determine potability using structured environmental datasets.
+
+---
+
+## ⛽ Fuel Route Optimization System
+Developed a Django-based fuel route optimization API that calculates efficient fuel stops, estimated costs, and route previews using mapping and routing logic.
+
+🔗 Repository:
+https://github.com/lucifer9973/Fuel-route
+
+---
+
+## 🌐 Deep Packet Inspection Engine
+Built a multithreaded C++ system for network traffic analysis, packet inspection, concurrency handling, and system-level debugging.
+
+🔗 Repository:
+https://github.com/lucifer9973/DPI-Engine---Deep-Packet-Inspection-System
+
+---
+
+# 💼 Experience
+
+## LLM Post-Training Intern — Ethara AI
+- Worked on LLM evaluation and response validation workflows
+- Improved output consistency through structured analysis
+- Handled edge cases and logical quality checks
+- Worked with large-scale AI datasets and annotation workflows
+
+---
+
+# 📜 Certifications
+
+- Oracle Cloud Infrastructure AI Foundations Associate
+- AWS Academy Graduate — Cloud Foundations
+- Cisco Networking Academy — Python Essentials
+- HackerRank — Problem Solving (Basic)
+- HackerRank — SQL (Basic)
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer9973&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lucifer9973&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer9973&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucifer9973&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer9973&theme=tokyonight" height="160"/>
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif"  />
+# 🌐 Connect With Me
 
-###
+<p align="left">
+<a href="https://linkedin.com/in/shobhit-raj9973" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<a href="https://github.com/lucifer9973" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
 
-###
+<a href="mailto:rajshobhit48@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+</a>
+</p>
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCb8ZFq9O2hWOJVw6T09Iz4g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/shobhitraj729/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-   <a href="mailto:rajshobhit48@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shobhit-raj9973" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bluelucifer61" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  </div>
+---
 
-###
-
-<br clear="both">
-
-<img src="assets/code-typing-loop.gif" alt="typing animation" width="25%" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
+<p align="center">
+⭐ Building projects • Learning deeply • Growing consistently
+</p>

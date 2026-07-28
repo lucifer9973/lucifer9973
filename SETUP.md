@@ -1,0 +1,1 @@
+Copy README.md and the assets folder into the root of your lucifer9973/lucifer9973 profile repository, then commit and push. The previous unreliable GitHub stats/streak image services have been removed.

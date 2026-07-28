@@ -1,31 +1,30 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img src="./assets/dark.svg" width="100%" alt="Shobhit Raj — neural identity interface">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Shobhit Raj — Cyber Developer Interface" src="./assets/hero-dark.svg" width="100%">
 </picture>
 
 <div align="center">
 
-### `PRODUCT ENGINEER` · `BACKEND` · `AI / LLM` · `SYSTEMS`
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/shobhit-raj9973)
+[![GitHub](https://img.shields.io/badge/FOLLOW-GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=000)](https://github.com/lucifer9973)
+[![Email](https://img.shields.io/badge/TRANSMIT-EMAIL-B65CFF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rajshobhit48@gmail.com)
 
-> Building systems that feel less like software and more like technology from the future.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhit_Raj-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/shobhit-raj9973)
-[![GitHub](https://img.shields.io/badge/GitHub-lucifer9973-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/lucifer9973)
+`SYSTEM STATUS: ONLINE` • `MODE: BUILD` • `LOCATION: INDIA`
 
 </div>
 
 ---
 
-## `> SYSTEM.PROFILE`
+## `> SYSTEM.IDENTITY`
 
 ```yaml
-identity: Shobhit Raj
+operator: Shobhit Raj
 class: Product Engineer
 current_node: Spectent Services Pvt. Ltd.
 education: B.Tech CSE // KIIT // 2026
 
-primary_systems:
+specialization:
   - Backend Engineering
   - REST API Architecture
   - AI / LLM Applications
@@ -35,38 +34,90 @@ primary_systems:
 
 runtime:
   languages: [Python, C++, Java, JavaScript, SQL]
-  backend: [FastAPI, Node.js, Express]
+  backend: [FastAPI, Node.js, Express.js]
+  databases: [MySQL, MongoDB, Vector Databases]
   infrastructure: [Docker, AWS, Linux, Git]
-  intelligence: [LLMs, RAG, Pinecone, Vector Databases]
+  intelligence: [LLMs, RAG, Pinecone]
 
-status: ONLINE
 mission: BUILD → BREAK → LEARN → IMPROVE → SHIP
 ```
 
+## `> ACTIVE.EXPERIENCE`
+
+### `SPECTENT SERVICES // PRODUCT ENGINEERING INTERN`
+`JUN 2026 → PRESENT`
+
+Building scalable backend services and REST APIs for **digital inspection, asset management, and workflow automation** using Python, FastAPI, SQL, and Docker.
+
+### `ETHARA AI // LLM POST-TRAINING INTERN`
+`APR 2026 → MAY 2026`
+
+Evaluated **500+ AI-generated responses**, investigated reasoning failures and factual inconsistencies, reproduced edge cases, and worked with Python-based evaluation workflows.
+
+---
+
 ## `> SELECTED.SYSTEMS`
 
-### `01 // DEEP PACKET INSPECTION ENGINE`
-Multithreaded C++ traffic-analysis engine supporting **TCP · UDP · HTTP · HTTPS · DNS · IPv4 · TLS** across 15+ modular components.
+<table>
+<tr><td width="50%" valign="top">
 
-[ACCESS REPOSITORY →](https://github.com/lucifer9973/DPI-Engine---Deep-Packet-Inspection-System)
+### `01 // DEEP PACKET INSPECTION ENGINE`
+Multithreaded C++ network-analysis engine supporting **TCP, UDP, HTTP, HTTPS, DNS, IPv4, and TLS** across 15+ modular components.
+
+<a href="https://github.com/lucifer9973/DPI-Engine---Deep-Packet-Inspection-System"><b>ACCESS REPOSITORY →</b></a>
+
+</td><td width="50%" valign="top">
 
 ### `02 // INTELLIGENT DOCUMENT ASSISTANT`
-AI document intelligence system built with **FastAPI · Pinecone · Groq · RAG · semantic search**, including 6+ REST APIs and 1536-dimensional vector retrieval.
+AI document intelligence system using **FastAPI, Pinecone, Groq, RAG, and semantic search**, with 6+ REST APIs and vector retrieval.
+
+<a href="https://github.com/lucifer9973"><b>EXPLORE GITHUB →</b></a>
+
+</td></tr>
+<tr><td width="50%" valign="top">
 
 ### `03 // FUEL ROUTE OPTIMIZATION`
 Backend routing system for intelligent fuel-stop selection, cost estimation, and route previews.
 
-[ACCESS REPOSITORY →](https://github.com/lucifer9973/Fuel-route)
+<a href="https://github.com/lucifer9973/Fuel-route"><b>ACCESS REPOSITORY →</b></a>
+
+</td><td width="50%" valign="top">
+
+### `04 // PROJECT ARCHIVE`
+Built **40+ software, AI, backend, and systems-engineering projects**.
+
+<a href="https://github.com/lucifer9973?tab=repositories"><b>OPEN PROJECT ARCHIVE →</b></a>
+
+</td></tr>
+</table>
 
 ---
 
+## `> LOADED.MODULES`
+
+`PYTHON` • `FASTAPI` • `C++` • `NODE.JS` • `SQL` • `DOCKER` • `AWS` • `LINUX` • `GIT` • `RAG` • `LLM`
+
+---
+
+## `> CERTIFICATION.CLEARANCE`
+
+`AWS CLOUD FOUNDATIONS` • `ORACLE AI FOUNDATIONS` • `AMAZON ML SUMMER SCHOOL` • `IBM DATA ANALYSIS WITH PYTHON` • `SERVICENOW` • `SAP BTP` • `HACKERRANK SQL`
+
+---
+
+## `> NETWORK.ENDPOINTS`
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/lucifer9973"><b>GITHUB</b><br><sub>PROJECT ARCHIVE</sub></a></td>
+<td align="center"><a href="https://linkedin.com/in/shobhit-raj9973"><b>LINKEDIN</b><br><sub>PROFESSIONAL UPLINK</sub></a></td>
+<td align="center"><a href="mailto:rajshobhit48@gmail.com"><b>EMAIL</b><br><sub>DIRECT TRANSMISSION</sub></a></td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer9973&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer9973&theme=transparent&hide_border=true" height="165"/>
-
 ### `// END TRANSMISSION`
-
 **SYSTEM ONLINE · READY TO BUILD**
 
 </div>

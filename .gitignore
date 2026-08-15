@@ -1,45 +1,12 @@
-# Python
+# Private source photo — the generated SVGs are the public assets.
+assets/photo.png
+
+# Local preview files.
+preview*.png
+*.webp
+
+# Python cache.
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-*.egg-info/
-dist/
-build/
-*.egg
-
-# Node
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Generated SVG build scripts
-fix_tags.py
-gen_light.py
-update_jarvis.py
-update_root_svgs.py
-write_svg.py
-
-# OS
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-*~
-
-# IDE
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-
-# Assets (keep these tracked)
-# assets/*.gif
-# assets/*.svg
-
-# Temp
-temp/
-*.tmp
+.venv/
+venv/

@@ -1,256 +1,68 @@
+<!-- ===== PROFILE.SH --LIVE BANNER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="100%" alt="Shobhit Raj - JARVIS Operating System Interface">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucifer9973/lucifer9973/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucifer9973/lucifer9973/main/light.svg">
+  <img alt="Shobhit Raj" src="https://raw.githubusercontent.com/lucifer9973/lucifer9973/main/light.svg">
 </picture>
 
-<br>
-
+<!-- ===== GITHUB STATS ===== -->
 <div align="center">
-  
-  `J.A.R.V.I.S // DEVELOPER OPERATING SYSTEM // v4.2`
-  
-  **BUILD** • **BREAK** • **LEARN** • **IMPROVE** • **SHIP**
+
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lucifer9973&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=lucifer9973&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Shobhit's GitHub streak">
+</picture>
+
+<br/>
+
+<!-- Stats + Top Languages — side by side -->
+<!-- Replace YOUR-INSTANCE.vercel.app after the self-hosted github-readme-stats deployment. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api?username=lucifer9973&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500">
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=lucifer9973&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Shobhit's GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=lucifer9973&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500">
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=lucifer9973&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages">
+</picture>
 
 </div>
 
----
-
-```yaml
-IDENTITY:
-  operator: Shobhit Raj
-  role: Product Engineer
-  mission: Building Backend Systems, AI Applications and Products that Scale
-
-CORE_MODULES:
-  backend: [Python, FastAPI, REST APIs, Node.js, Express.js]
-  systems: [C++, Multithreading, Concurrency, Computer Networks]
-  data: [SQL, MySQL, MongoDB, PostgreSQL]
-  ai: [LLM Applications, RAG, Pinecone, Vector Databases, LangChain]
-  infrastructure: [Docker, AWS, Linux, Git, CI/CD]
-
-CURRENT_NODE:
-  organization: Spectent Services Pvt. Ltd.
-  focus: Backend Engineering // AI Applications // Product Development // System Design
-
-NETWORK:
-  education: B.Tech CSE @ KIIT University (2026)
-  linkedin: https://linkedin.com/in/shobhit-raj9973
-  email: rajshobhit48@gmail.com
-  portfolio: (placeholder)
-
-STATUS: ONLINE // AVAILABLE FOR OPPORTUNITIES
-```
-
-<br>
-
-## ▸ CURRENT MISSION
-
-```diff
-+ Building scalable backend systems and AI-powered products
-+ Engineering intelligent document processing solutions
-+ Developing real-time inspection and analytics platforms
-! Exploring advanced RAG architectures and vector databases
-! Contributing to open-source developer tools
-```
-
-I'm a Product Engineer passionate about architecting robust backend systems, designing intelligent AI applications, and building products that solve real problems at scale. Currently engineering at **Spectent Services Pvt. Ltd.** , working on digital inspection platforms, asset management systems, and workflow automation.
-
-<br>
-
-## ▸ PROFESSIONAL EXPERIENCE
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  PRODUCT ENGINEER INTERN                  2024 - Present │
-│  SPECTENT SERVICES PVT LTD                              │
-├─────────────────────────────────────────────────────────┤
-│  > Architecting digital inspection platform              │
-│  > Building scalable backend microservices               │
-│  > Implementing RAG-based document intelligence          │
-│  > Designing asset management & workflow automation      │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│  LLM POST TRAINING INTERN                      2024     │
-│  ETHARA AI                                              │
-├─────────────────────────────────────────────────────────┤
-│  > LLM fine-tuning and post-training pipelines           │
-│  > Data preparation and model evaluation                 │
-│  > Reinforcement learning from human feedback (RLHF)    │
-└─────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## ▸ TECH STACK & EXPERTISE
-
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<br/>
 <div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | `Python` `C++` `JavaScript` `SQL` |
-| **Backend** | `FastAPI` `Node.js` `Express.js` `REST APIs` |
-| **AI / ML** | `LLM Applications` `RAG` `LangChain` `Vector Databases` `Pinecone` |
-| **Databases** | `MySQL` `MongoDB` `PostgreSQL` |
-| **Infrastructure** | `Docker` `AWS` `Linux` `Git` `CI/CD` |
-| **Systems** | `Multithreading` `Concurrency` `Computer Networks` |
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucifer9973/lucifer9973/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucifer9973/lucifer9973/output/github-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/lucifer9973/lucifer9973/output/github-snake.svg">
+</picture>
 </div>
 
-<br>
-
-## ▸ PROJECT MATRIX
-
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
 <div align="center">
 
-### `01` DEEP PACKET INSPECTION ENGINE
-*C++ • Multithreading • Network Analysis*
-[![Repo](https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/lucifer9973/DPI-Engine---Deep-Packet-Inspection-System)
-
-### `02` INTELLIGENT DOCUMENT ASSISTANT
-*FastAPI • RAG • Pinecone • Groq*
-[![Repo](https://img.shields.io/badge/View_Repository-00FFC8?style=for-the-badge&logo=github&logoColor=000)](https://github.com/lucifer9973)
-
-### `03` FUEL ROUTE OPTIMIZATION SYSTEM
-*Django • Routing Algorithms • Cost Optimization • Maps*
-[![Repo](https://img.shields.io/badge/View_Repository-3D5AFE?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/lucifer9973/Fuel-route)
-
-### `04` PREDICTIVE ANALYTICS ENGINE
-*Machine Learning • Data Analysis • Feature Engineering*
-
-### `05` CUSTOMER SEGMENTATION SYSTEM
-*ML • Clustering • Business Intelligence*
-
-### `06` REAL-TIME FACE DETECTION
-*FastAPI • WebSocket • Computer Vision • OpenCV*
-
-[![All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-10161D?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/lucifer9973?tab=repositories)
-
-</div>
-
-<br>
-
-## ▸ ACHIEVEMENTS & CERTIFICATIONS
-
-<div align="center">
-
-[![GitHub Stars](https://img.shields.io/github/stars/lucifer9973?style=for-the-badge&logo=github&logoColor=fff&label=STARS&color=00F5FF)](https://github.com/lucifer9973)
-[![GitHub Followers](https://img.shields.io/github/followers/lucifer9973?style=for-the-badge&logo=github&logoColor=fff&label=FOLLOWERS&color=00FFC8)](https://github.com/lucifer9973)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=lucifer9973&label=VISITORS&countColor=%2300F5FF&labelStyle=upper)](https://github.com/lucifer9973)
-
-</div>
-
-<br>
-
-## ▸ GITHUB ANALYTICS
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucifer9973&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00F5FF&icon_color=00FFC8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9973&layout=compact&langs_count=8&hide_border=true&title_color=00F5FF&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
-</div>
-
-<br>
-
-## ▸ CONTRIBUTION GRAPH
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer9973&theme=react-dark&bg_color=05070A&hide_border=true&area=true&custom_title=Development%20Activity&color=00F5FF&line=00FFC8&point=3D5AFE" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br>
-
-## ▸ CONNECT
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/shobhit-raj9973)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/lucifer9973)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rajshobhit48@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=000)](https://lucifer9973.github.io)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-```
-J.A.R.V.I.S // DEVELOPER INTERFACE v4.2
-SHOBHIT RAJ // PRODUCT ENGINEER
-BACKEND // AI // SYSTEMS // PRODUCTS
-
-BUILD • BREAK • LEARN • IMPROVE • SHIP
-```
-
-```
-> system.status
-ONLINE // AVAILABLE FOR OPPORTUNITIES
-
-> system.bootime
-2024 // CONTINUOUSLY OPERATIONAL
-
-> system.motto
-"Building Backend Systems, AI Applications and Products that Scale."
-```
-
-</div>
-
-<br>
-
-<details>
-<summary><b>▸ SYSTEM INFORMATION</b></summary>
-
-<br>
-
-```yaml
-operator: Shobhit Raj
-role: Product Engineer
-education: B.Tech Computer Science // KIIT University // 2026
-
-current_organization: Spectent Services Pvt. Ltd.
-current_focus:
-  - Backend Engineering with FastAPI & Python
-  - AI Application Development
-  - Product Design & System Architecture
-  - Scalable Distributed Systems
-
-previous_experience:
-  - LLM Post Training Intern @ Ethara AI
-
-technical_proficiencies:
-  languages: [Python, C++, JavaScript, SQL]
-  frameworks: [FastAPI, Node.js, Express.js, Django]
-  databases: [MySQL, MongoDB, PostgreSQL]
-  ai_ml: [LLMs, RAG, LangChain, Pinecone, Vector Databases, Machine Learning]
-  devops: [Docker, AWS, CI/CD, Linux, Git]
-  systems: [Multithreading, Concurrency, Computer Networks, REST API Design]
-
-projects:
-  - Deep Packet Inspection Engine [C++]
-  - Intelligent Document Assistant [FastAPI, RAG, Pinecone]
-  - Fuel Route Optimization [Django]
-  - Predictive Analytics [ML]
-  - Customer Segmentation [ML]
-  - Real-Time Face Detection [FastAPI, WebSocket]
-
-status: Online // Open for collaboration & opportunities
-```
-
-</details>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/lucifer9973/lucifer9973">
-  <img src="https://img.shields.io/badge/PROFILE_REPOSITORY-10161D?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Profile Repository"/>
+<a href="https://www.linkedin.com/in/shobhitraj-ai/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&labelColor=0A101F&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/Shobhitraj729">
+  <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=F8FAFC&labelColor=0A101F" alt="X">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/shobhitraj729/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rajshobhit48@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email">
+</a>
+&nbsp;&nbsp;
+<a href="https://space-portfolio-umber.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio">
 </a>
 
-<br>
-
-<sub>**J.A.R.V.I.S Developer Interface** — Designed with precision. Built with purpose. Powered by caffeine and curiosity.</sub>
-
 </div>
+
+<!-- ===== END ===== -->
